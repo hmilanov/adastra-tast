@@ -28,4 +28,4 @@
 
     - `pip install -r requirements.txt`
 
-    - `python3 main.-py --data_set_lodation ./data_sets/movies_metadata.csv --save_to ./data_set_josn.json --logging_location ./logs.log --logging_level INFO`
+    - `python3 main.-py --data_set_location ./data_sets/movies_metadata.csv --save_to ./data-set_josn.json --logging_location ./logs.log --logging_level INFO`
